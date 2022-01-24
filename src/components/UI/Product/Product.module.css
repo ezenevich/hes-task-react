@@ -1,0 +1,27 @@
+.productItem{
+    height: 70px;
+    border-top: 1px solid #E0E0E0;
+}
+
+.productItemActive {
+    background-color: #F7F7F7;
+    border-right: 3px solid #2588E3;
+}
+
+.productsItemName {
+    margin: 16px 0 5px 20px;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #0F0F0F;
+    pointer-events: none;
+}
+
+.productItemDate {
+    margin: 0 20px;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 13px;
+    color: #777777;
+    pointer-events: none;
+}
