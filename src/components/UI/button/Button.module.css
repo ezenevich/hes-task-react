@@ -1,0 +1,31 @@
+.blackBtn {
+    width: 255px;
+    height: 35px;
+    margin: auto;
+    background-color: #0F0F0F;
+    border-radius: 4px;
+    border: none;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 13px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+.blueBtn {
+    width: 130px;
+    height: 36px;
+    background-color: #2588E3;
+    border: none;
+    border-radius: 4px;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 13px;
+    text-align: center;
+    color: #FFFFFF;
+}
